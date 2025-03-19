@@ -71,7 +71,13 @@
 
 ###
 
+<h1 align="left">⭐ Fun Fact:</h1>
+
 ###
+
+😻 **I love cats!**
+
+- I’m a huge cat lover and enjoy spending time with my furry friends. 🐾
 
 <br clear="both">
 
