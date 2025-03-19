@@ -2,7 +2,36 @@
 
 ###
 
-<p align="left">👋 Welcome to my GitHub profile!, I’m Aldo Solares Aguila.<br><br>Mechatronics Engineer | Project <br>Developer | Tech Enthusiast.<br>I'm passionate about using Python to solve real-world problems, from automation and data analysis to mechatronics and IoT.<br>I enjoy combining my engineering background with programming to create innovative and efficient solutions.<br>👀 I’m interested in:<br><br>Python-based automation or data analysis projects.<br>Machine learning or AI.<br>Mechatronics and robotics.<br>Automation and control systems<br>🌱 I’m currently learning:<br><br>Python programming techniques.<br>Data analysis and visualization with Python.<br>Web development using Flask and Django.<br>Machine learning fundamentals.<br>📫 How to reach me:<br><br>💼 LinkedIn: https://www.linkedin.com/in/aldo-solares-aguila-865856195/<br>📧 Email: aldo_solares@outlook.com</p>
+👋 Welcome to my GitHub profile! I’m Aldo Solares Aguila.
+
+- **Mechatronics Engineer** | **Project Developer** | **Tech Enthusiast**.
+- I'm passionate about using Python to solve real-world problems, from automation and data analysis to mechatronics and IoT.
+- I enjoy combining my engineering background with programming to create innovative and efficient solutions.
+
+---
+
+👀 **I’m interested in:**
+
+- Python-based automation or data analysis projects.
+- Machine learning or AI.
+- Mechatronics and robotics.
+- Automation and control systems.
+
+---
+
+🌱 **I’m currently learning:**
+
+- Python programming techniques.
+- Data analysis and visualization with Python.
+- Web development using Flask and Django.
+- Machine learning fundamentals.
+
+---
+
+📫 **How to reach me:**
+
+- 💼 LinkedIn: [Aldo Solares Aguila](https://www.linkedin.com/in/aldo-solares-aguila-865856195/)
+- 📧 Email: aldo_solares@outlook.com
 
 ###
 
@@ -42,18 +71,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldo-Solares/Aldo-Solares/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldo-Solares/Aldo-Solares/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldo-Solares/Aldo-Solares/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/CWQxY7xVoPbq/giphy.gif"  />
+  <img height="250" width="600" src="https://media.giphy.com/media/CWQxY7xVoPbq/giphy.gif"  />
 </div>
 
 ###
