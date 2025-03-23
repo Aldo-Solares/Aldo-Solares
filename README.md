@@ -85,5 +85,3 @@
     <p style="color:#ff1493; font-size:16px;"><b>Gordito</b></p>
     <img src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" width="600" style="border: 5px solid pink; border-radius: 10px;">
 </div>
-
-###
