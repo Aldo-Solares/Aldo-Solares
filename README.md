@@ -82,7 +82,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" width="600" src="https://media.giphy.com/media/CWQxY7xVoPbq/giphy.gif"  />
+  <img align="center" width="500" height="400" style="src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" />
 </div>
 
 ###
