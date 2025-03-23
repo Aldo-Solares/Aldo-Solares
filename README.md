@@ -1,41 +1,41 @@
-<h1 align="left">💫 About Me:</h1>
+# 💫 Sobre Mí:
 
 ###
 
-👋 Welcome to my GitHub profile! I’m Aldo Solares Aguila.
+👋 ¡Bienvenido a mi perfil de GitHub! Me llamo Aldo Solares Aguila.
 
-- **Mechatronics Engineer** | **Project Developer** | **Tech Enthusiast**.
-- I'm passionate about using Python to solve real-world problems, from automation and data analysis to mechatronics and IoT.
-- I enjoy combining my engineering background with programming to create innovative and efficient solutions.
-
----
-
-👀 **I’m interested in:**
-
-- Python-based automation or data analysis projects.
-- Machine learning or AI.
-- Mechatronics and robotics.
-- Automation and control systems.
+- **Ingeniero en Mecatrónica** | **Desarrollador de Proyectos** | **Entusiasta de la Tecnología**.
+- Me apasiona usar Python para resolver problemas del mundo real, desde automatización y análisis de datos, hasta mecatrónica e IoT.
+- Disfruto combinar mis conocimientos en ingeniería con la programación para crear soluciones innovadoras y eficientes.
 
 ---
 
-🌱 **I’m currently learning:**
+👀 **Me interesa:**
 
-- Python programming techniques.
-- Data analysis and visualization with Python.
-- Web development using Flask and Django.
-- Machine learning fundamentals.
+- Proyectos de automatización o análisis de datos basados en Python.
+- Machine learning.
+- Mecatrónica y robótica.
+- Sistemas de automatización y control.
 
 ---
 
-📫 **How to reach me:**
+🌱 **Actualmente estoy aprendiendo:**
+
+- Técnicas de programación en Python.
+- Análisis y visualización de datos con Python.
+- Desarrollo web con Flask y Django.
+- Fundamentos de machine learning.
+
+---
+
+📫 **Cómo contactarme:**
 
 - 💼 LinkedIn: [Aldo Solares Aguila](https://www.linkedin.com/in/aldo-solares-aguila-865856195/)
-- 📧 Email: aldo_solares@outlook.com
+- 📧 Correo electrónico: aldo_solares@outlook.com
 
 ###
 
-<h1 align="left">💻 Tech Stack:</h1>
+# 💻 Tecnologías que uso:
 
 ###
 
@@ -61,23 +61,23 @@
 
 ###
 
-<h1 align="left">📊 GitHub Stats:</h1>
+# 📊 Estadísticas de GitHub:
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldo-Solares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldo-Solares&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="left">⭐ Fun Fact:</h1>
+# ⭐ Dato Curioso:
 
 ###
 
-😻 **I love cats!**
+🐈 **¡Amo los gatos!**
 
-- I’m a huge cat lover and enjoy spending time with my furry friends. 🐾
+- Me encantan los gatos y disfruto pasar tiempo con mis 2 gatos. 🐾
 
 <br clear="both">
 
