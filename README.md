@@ -82,7 +82,7 @@
 <br clear="both">
 
 <div align="center">
-  <img align="center" width="500" height="400" style="src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" />
+  <img align="center" width="500" height="400" src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" />
 </div>
 
 ###
