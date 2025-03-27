@@ -1,43 +1,35 @@
-# 💫 Sobre Mí:
+# 💫 Sobre mí:
 
-###
+👋 ¡Bienvenido a mi perfil de GitHub! Me llamo Aldo Solares Águila.
 
-👋 ¡Bienvenido a mi perfil de GitHub! Me llamo Aldo Solares Aguila.
+**Ingeniero en Mecatrónica** | **Desarrollador de Software** | **Desarrollador de Proyectos**.
 
-- **Ingeniero en Mecatrónica** | **Desarrollador de Proyectos** | **Entusiasta de la Tecnología**.
-- Me apasiona usar Python para resolver problemas del mundo real, desde automatización y análisis de datos, hasta mecatrónica e IoT.
-- Disfruto combinar mis conocimientos en ingeniería con la programación para crear soluciones innovadoras y eficientes.
+- Me especializo en el desarrollo de soluciones que combinan mecatrónica, automatización y programación.
+- Siempre busco optimizar procesos y crear sistemas eficientes utilizando tecnología.  
 
----
+# 🔭 Áreas de Interés:
 
-👀 **Me interesa:**
+- **Automatización y Análisis de Datos**: Desarrollo de soluciones basadas en Python para optimizar procesos y extraer información.
+- **Machine Learning**: Aplicación de técnicas de aprendizaje automático para resolver problemas.
+- **Mecatrónica y Robótica**: Diseño y desarrollo de sistemas integrados que combinan mecánica, electrónica y programación.
+- **Sistemas de Control y Automatización**: Implementación de sistemas eficientes para mejorar procesos industriales.
 
-- Proyectos de automatización o análisis de datos basados en Python.
-- Machine learning.
-- Mecatrónica y robótica.
-- Sistemas de automatización y control.
 
----
+# 🌱 Actualmente estoy aprendiendo:
 
-🌱 **Actualmente estoy aprendiendo:**
+- Técnicas avanzadas de programación en Python.
+- Análisis y visualización de datos con bibliotecas como Pandas y Matplotlib.
+- Desarrollo web con frameworks como Django.
+- Fundamentos y aplicaciones de machine learning.
 
-- Técnicas de programación en Python.
-- Análisis y visualización de datos con Python.
-- Desarrollo web con Flask y Django.
-- Fundamentos de machine learning.
 
----
-
-📫 **Cómo contactarme:**
+# 📫 Cómo contactarme:
 
 - 💼 LinkedIn: [Aldo Solares Aguila](https://www.linkedin.com/in/aldo-solares-aguila-865856195/)
 - 📧 Correo electrónico: aldo_solares@outlook.com
 
-###
 
 # 💻 Tecnologías que uso:
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -59,25 +51,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
-
 # 📊 Estadísticas de GitHub:
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldo-Solares&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 # ⭐ Dato Curioso:
 
-###
-
 🐈 **¡Amo los gatos!**
 
-- Me encantan los gatos y disfruto pasar tiempo con mis 2 gatos. 🐾
+- Me fascinan los gatos y disfruto cada momento con mis dos adorables compañeros gatunos. 🐾
 
 <br clear="both">
 
