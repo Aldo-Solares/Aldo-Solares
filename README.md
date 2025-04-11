@@ -54,8 +54,10 @@
 # 📊 Estadísticas de GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldo-Solares&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldo-solares&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
+
+###
 
 
 # ⭐ Dato Curioso:
