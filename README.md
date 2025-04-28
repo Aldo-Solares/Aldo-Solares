@@ -69,20 +69,12 @@
 <br clear="both">
 
 <div align="center" class="contenedor">
-    <table style="border: none; border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
-        <tr>
-            <td style="padding: 10px; border: none; margin: 0;" align="center">
-                <p style="color:#ff1493; font-size:16px;"><b>Gordito</b></p>
-                <img src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" width="300" height="225" style="border: 5px solid pink; border-radius: 10px;">
-            </td>
-            <td style="padding: 10px; border: none; margin: 0;" align="center">
-                <p style="color:#ff1493; font-size:16px;"><b>Isha</b></p>
-                <img src="https://i.postimg.cc/hj1HVDPc/IMG-0736.png" width="300" height="225" style="border: 5px solid pink; border-radius: 10px;">
-            </td>
-            <td style="padding: 10px; border: none; margin: 0;" align="center">
-                <p style="color:#ff1493; font-size:16px;"><b>Copito</b></p>
-                <img src="https://i.postimg.cc/bYFmWD54/c9ed07ca-11db-4c56-84a0-e0519c3a1b22-1.png" width="300" height="225" style="border: 5px solid pink; border-radius: 10px;">
-            </td>
-        </tr>
-    </table>
+  <p><b>Gordito ❤️</b></p>
+  <img src="https://i.postimg.cc/Prs78Xhj/IMG-9869.jpg" width="600" style="border: 5px solid pink; border-radius: 10px;">
+  
+  <p><b>Isha ❤️</b></p>
+  <img src="https://i.postimg.cc/05Kw2NGB/1.jpg" style="border: 5px solid pink; border-radius: 10px;">
+  
+  <p><b>Copito ❤️</b></p>
+  <img src="https://i.postimg.cc/d0Q5zCyX/2.jpg" style="border: 5px solid pink; border-radius: 10px;">
 </div>
